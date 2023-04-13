@@ -2,8 +2,8 @@
   "name": "qrcode2stl",
   "version": "1.10.0",
   "private": true,
+  "start": "react-scripts --openssl-legacy-provider start",
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start"
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
